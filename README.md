@@ -41,8 +41,10 @@ AIへの質問を「後攻め」にする:
 このリポジトリは、以下の要素で構成されており、このテンプレートが完成するまでの物語を追体験できます。
 
 ----------
+                                  
 
-### v1.2B_PRO_Recovery_Spec.md:[1.2B_PRO_Recovery_Spec.md](https://github.com/user-attachments/files/22265357/1.2B_PRO_Recovery_Spec.md)
+### v1.2B_PRO_Recovery_Spec.md:
+[1.2B_PRO_Recovery_Spec.md](https://github.com/user-attachments/files/22265357/1.2B_PRO_Recovery_Spec.md)
 --- START OF FILE v1.2b_PRO.md ---
 
 # 📘 V1.2B_PRO.md : AI Dialogue Record (High-Speed Output)
