@@ -575,3 +575,46 @@ AI共創運用原則 (回収型アプローチ): AIが「質問攻め」に陥�
 ## 🔹 貢献について
 このテンプレートとアプローチは、AIとの「共創」をより豊かにするための、私たちの小さな試みです。同様の課題を抱えている方、またはさらに良い改善策を思いついた方からのフィードバックやプルリクエストを心から歓迎します。
 
+---
+
+## MITライセンス
+
+著作権表示
+
+Copyright (c) 2025 Hanamaruki
+
+ここに、本ソフトウェアとそれに関連するドキュメントファイル（以下「本ソフトウェア」）の複製物を受け取るすべての人に対し、無料で利用を許可します。
+この許可には、本ソフトウェアを制限なく取り扱う権利が含まれます。
+具体的には、使用、複製、変更、結合、出版、配布、サブライセンスの付与、および販売を行う権利、また、本ソフトウェアが提供される相手に対して、これらの行為を許可する権利を意味します。
+ただし、以下の条件に従うものとします。
+
+上記に記載された著作権表示と、本許可表示は、本ソフトウェアのすべての複製物、または実質的な部分に含まれなければならないものとします。
+
+本ソフトウェアは「現状のまま」提供され、商品性、特定の目的への適合性、および非侵害性に対する保証を含む、明示的または黙示的ないかなる種類の保証もありません。
+いかなる場合も、著者または著作権者は、本ソフトウェアの使用またはその他の取り扱いから生じる、契約、不法行為、またはその他の行為にかかわらず、いかなる請求、損害、またはその他の責任に対しても責任を負わないものとします。
+
+---
+
+## MIT License
+
+Copyright (c) 2025 Hanamaruki
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
